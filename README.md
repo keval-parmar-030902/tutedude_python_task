@@ -63,3 +63,36 @@ math.sqrt(number)
 math.log(number)
 
 math.sin(number)
+
+## Assignment 4:
+
+### Task1:
+
+Handling the error in files and i found this output from there.
+
+first, I use try for the Error handling and there i use with operatir with open for retrive data from the file sample.txt the i get this output.
+
+Reading file content:   
+Line: This is a simple text file.
+
+Line: It contains multiple lines. 
+
+Here i attached the sample.txt path: ‘tutedude\_python\_task\\Assignment\_4\\sample.txt’
+
+### Task2:
+
+Step1: Firstly, I take input from the user.
+
+Step2: then i created an file output.txt with open function for file handaling and i give the user string to it so it can write the in output.txt and i use mode ‘w’.
+
+Step3: then I print the Data was successfully enterd in the output.txt file.
+
+Step4: After that i again use take user input for additional data addition. 
+
+Step5: with open file for append the data in output.txt file.
+
+Step6: print data succesfully append in file.
+
+Step7:Read the file of both lines of data appended in output.txt
+
+Here i attched output.txt path: ‘tutedude\_python\_task\\Assignment\_4\\output.txt’
