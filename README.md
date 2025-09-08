@@ -96,3 +96,19 @@ Step6: print data succesfully append in file.
 Step7:Read the file of both lines of data appended in output.txt
 
 Here i attched output.txt path: ‘tutedude\_python\_task\\Assignment\_4\\output.txt’
+
+## Assignment 5:
+
+### Task1: Create a Dictionary of Student Marks
+
+Frist of all I created an dictionary then I use try except block for error handling.
+
+### Task2: Demonstrate List Slicing
+
+Step1: For list i use List comprehension to create an list.
+
+Step2: Then i use slicing method to slice to 1 to 5 elements.
+
+Step3: After that I assign a new variable to store that another list.
+
+Step4: Then i provide an slicing to themto reverse the list.
